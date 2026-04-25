@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "FOC_V2.kicad_pro",
+    "filename": "HANDy.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -615,7 +615,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "empty.kicad_wks",
+    "page_layout_descr_file": "FOC_V2.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -629,7 +629,7 @@
   },
   "sheets": [
     [
-      "af007a1f-5dfd-4ecc-925d-041fb820dfde",
+      "5b957b33-4dfb-485c-9682-359105a212d9",
       "Root"
     ]
   ],
